@@ -1,3 +1,3 @@
 module github.com/Aidajy111/train.git
 
-go 1.23
+go 1.23.3
